@@ -1,5 +1,5 @@
-# NX Themes - Cursor Animation Color
-NX Themes - Cursor Animation Color - Layout Patch
+# NXThemes - Cursor Animation Color
+NXThemes - Cursor Animation Color - Layout Patch
 Hey there, I am the Original Content Creator of the Very First NXThemes Cursor Color Mod.
 
 My heart goes to Exelix & Migush <3 Guys, seriously this took a long time to figure out.
