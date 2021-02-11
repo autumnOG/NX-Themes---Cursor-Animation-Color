@@ -13,6 +13,6 @@ I'd love to see the Community take this original code and explore how to make di
 ____________________________________________________________________________________________
 
  Latest Release 1.2
-https://github.com/autumnOG/NX-Themes---Cursor-Animation-Color/releases/tag/1.
+https://github.com/autumnOG/NX-Themes---Cursor-Animation-Color/releases/tag/1.2
 
 _____________________________________________________________________________________________
