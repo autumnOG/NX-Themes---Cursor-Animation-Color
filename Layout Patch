@@ -1,0 +1,62 @@
+  "FileName": "blyt/Cursor3.bflyt",
+  "Patches": [
+    {
+      "PaneName": "P_Main",
+      "UsdPatches": [
+        {
+          "PropName": "S_BorderColorSelect0",
+          "PropValues": [
+            "100"
+          ],
+          "type": 1
+        },
+        {
+          "PropName": "S_BorderColor0",
+          "PropValues": [
+            "100",
+            "1",
+            "1",
+            "1"
+          ],
+          "type": 2
+        },
+        {
+          "PropName": "S_BorderSize",
+          "PropValues": ["5"],
+          "type": "1"
+        },
+        {
+          "PropName": "C_B",
+          "PropValues": [
+            "100",
+            "0",
+            "0",
+            "0"
+          ],
+          "type": 1
+        },
+        {
+          "PropName": "C_W",
+          "PropValues": [
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "type": 1
+        }
+      ]
+    }
+  ],
+  "Materials": [
+    {
+      "MaterialName": "P_Main",
+      "BackgroundColor": "FFFFC0FF"
+    },
+    {
+      "MaterialName": "P_Grow",
+      "BackgroundColor": "FF53755F"
+     }
+   ]
+ },
+ {
